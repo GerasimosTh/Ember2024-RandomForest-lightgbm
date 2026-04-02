@@ -73,6 +73,10 @@ Download the dataset separately and update the paths in the notebooks before run
 └── requirements.txt
 ```
 
+ **Note:** These notebooks contain the final, cleaned code used to produce 
+ the results reported in the thesis. Exploratory and intermediate experiments 
+ conducted during development are not included.
+ 
 ---
 
 ## Author
